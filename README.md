@@ -57,8 +57,8 @@ If not already live, deploy your portfolio:
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Email:** sharmanidhi97083@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nidhi-sharma-40247b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **GitHub:** [nidhiisharma07](https://github.com/nidhiisharma07)  
 
 ## 📄 License
